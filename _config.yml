@@ -5,11 +5,11 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
-paginate:            1
-baseurl:             ""
+title:               Cleaver Solutions
+tagline:             Cutting Edge Technology, Small Town Service
+url:                 http://mattcleaver.github.io	
+paginate:            10
+baseurl:             /cleaversolutions
 
 # Assets
 #
@@ -20,11 +20,11 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Matt Cleaver
+  url:               http://cleaversolutions.com
+  email:             matt@cleaversolutions.com
 
 # Custom vars
 version:             2.0.0
 github:
-  repo:              https://github.com/poole/poole
+  repo:              https://github.com/mattcleaver/cleaversolutions
